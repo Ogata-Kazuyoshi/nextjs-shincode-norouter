@@ -1,4 +1,4 @@
-# Test Double Template
+# Next.js12の基本コード（no-Approuter）
 
 <details open="open">
 <summary>目次</summary>
